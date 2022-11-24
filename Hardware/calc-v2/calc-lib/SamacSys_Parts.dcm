@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP JMK107ABJ106MA-T
+D Taiyo Yuden 0603 (1608M) 10uF MLCC 6.3V dc +/-20% SMD JMK107ABJ106MA-T
+K
+F https://componentsearchengine.com/Datasheets/1/JMK107ABJ106MA-T.pdf
+$ENDCMP
+#
+$CMP 06036A470KAT2A
+D Capacitor, 0603 47PF +/-10%  6.3V
+K
+F https://componentsearchengine.com/Datasheets/1/06036A470KAT2A.pdf
+$ENDCMP
+#
+$CMP 06036C104MAZ2A
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V .1uF X7R 0603 20% Tol FLEX
+K
+F https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf
+$ENDCMP
+#
+$CMP 885012106003
+D Wurth Elektronik 0603 WCAP-CSGP 1uF Ceramic Multilayer Capacitor, 6.3 V dc, +85C, X5R Dielectric, +/-20%
+K
+F https://katalog.we-online.com/pbs/datasheet/885012106003.pdf
+$ENDCMP
+#
+$CMP M20-9960445
+D 2.54mm (0.1") Pitch SIL Horizontal Throughboard Pin Header, 6.1mm mating pin height, gold (hi-temp mould), 4 contacts
+K
+F https://cdn.harwin.com/pdfs/M20-996.pdf
+$ENDCMP
+#
+$CMP FH28-10S-0.5SH_11_
+D FFC & FPC Connectors 10P SMT HORIZ ZIF AU 2.5MM HT .5MM PITCH
+K
+F https://www.hirose.com/product/document?clcode=CL0586-1827-6-05&productname=FH28D-30S-0.5SH(05)&series=FH28&documenttype=Catalog&lang=en&documentid=D31647_en
+$ENDCMP
+#
+$CMP L0805C4R7MDWIT
+D KEMET - L0805C4R7MDWIT - High Frequency Inductor, 4.7 H, L-DWI Series, 520 mA, 0805 [2012 Metric], Wirewound, 0.5 ohm
+K
+F https://www.kemet.com/specsheet/L0805C4R7MDWIT
+$ENDCMP
+#
+$CMP CMP0603AFX-1002ELF
+D Thick Film Resistors - SMD 10K OHM 1% 1/4W TC100
+K
+F https://www.bourns.com/docs/Product-Datasheets/CMP-A.pdf
+$ENDCMP
+#
+$CMP 9HT11-32.768KDZB-T
+D TXC - 9HT11-32.768KDZB-T - Crystal, 32.768 kHz, SMD, 2mm x 1.2mm, 6 pF, 20 ppm, 9HT11 Series
+K
+F https://componentsearchengine.com/Datasheets/1/9HT11-32.768KDZB-T.pdf
+$ENDCMP
+#
+$CMP STM32L476RGT6
+D ARM MCU 32-bit 80MHz 1024KB  LQFP64 STMicroelectronics STM32L476RGT6, 32bit ARM Cortex M4 MCU, 80MHz, 1 MB Flash, 64-Pin LQFP
+K
+F https://www.st.com/resource/en/datasheet/stm32l476rg.pdf
+$ENDCMP
+#
+$CMP 1057
+D Coin Cell Battery Holders 2032 BATT HOLDER SMT
+K
+F https://www.keyelco.com/product.cfm/product_id/13955
+$ENDCMP
+#
+$CMP TPS61222DCKT
+D TEXAS INSTRUMENTS - TPS61222DCKT - Boost (Step Up) Switching Regulator, Fixed, 700mV-5.5V In, 5V And 200mA Out, SC-70-6
+K
+F http://www.ti.com/lit/ds/symlink/tps61220.pdf
+$ENDCMP
+#
+$CMP C0603C561F4GACAUTO
+D SMD Auto C0G, Ceramic, 560 pF, 1%, 16 VDC, 40 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP GRM32ER60J227ME05L
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 1210 220uF 6.3volts X5R 20%
+K
+F https://psearch.en.murata.com/capacitor/product/GRM32ER60J227ME05%23.html
+$ENDCMP
+#
+$CMP CGA3E2C0G1H103J080AA
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 0.01uF 50volts C0G +/-5%
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP TPCL475K010R5000
+D Tantalum Capacitors - Solid SMD 10Vdc 4.7uF 0603 +/-10% ESR=5000mOhms
+K
+F http://datasheets.avx.com/TPC.pdf
+$ENDCMP
+#
+$CMP TACL105K006XTA
+D Tantalum Capacitors - Solid SMD 0603 6.3V 1.0uF 10%
+K
+F 
+$ENDCMP
+#
+$CMP F930J227KBA
+D AVX - F930J227KBA - CAP, 220F, 6.3V, 10%
+K
+F http://datasheets.avx.com/F93.pdf
+$ENDCMP
+#
+#End Doc Library

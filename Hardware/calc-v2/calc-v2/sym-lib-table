@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "calc-lib-custom")(type "KiCad")(uri "S:/Documents/Development/OpenRPNCalc/calc-v2/calc-lib-custom.kicad_sym")(options "")(descr ""))
+)
