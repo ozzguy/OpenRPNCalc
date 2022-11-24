@@ -3782,7 +3782,7 @@
     (property "Value" "3V" (id 1) (at 182.88 234.1879 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "foot-lib:BatteryHolder_Keystone_1057_1x2032" (id 2) (at 179.07 233.426 90)
+    (property "Footprint" "foot-lib:BatteryHolder_Keystone_1057" (id 2) (at 179.07 233.426 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 233.426 90)
@@ -5451,7 +5451,7 @@
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
     (path "/268bb98d-c6ee-4c6a-b5d2-7a103895fb4b"
-      (reference "BT1") (unit 1) (value "3V") (footprint "foot-lib:BatteryHolder_Keystone_1057_1x2032")
+      (reference "BT1") (unit 1) (value "3V") (footprint "foot-lib:BatteryHolder_Keystone_1057")
     )
     (path "/d285528e-510f-4b27-bcfa-93c07bdba5d8"
       (reference "C1") (unit 1) (value "10 uF") (footprint "C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
