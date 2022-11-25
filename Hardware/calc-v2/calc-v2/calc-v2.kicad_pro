@@ -423,7 +423,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../calc-v2.step",
+      "step": "../3d-models/PCB_Board/calc-v2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
