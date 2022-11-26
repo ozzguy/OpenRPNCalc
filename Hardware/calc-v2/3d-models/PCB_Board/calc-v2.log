@@ -1,5 +1,5 @@
 STEP translation to Solid Edge
-Date: Friday,November 25,2022 12:40PM
+Date: Friday,November 25,2022 12:52PM
 Source File: C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\calc-v2.step
 Author: Pcbnew
 Organization: Kicad
@@ -40,8 +40,8 @@ Translating to Parasolid data types...
 +Begin Assembly: 1
 +Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\calc-v2.asm
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\EVQ-Q2B01W.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\EVQ-Q2B01W_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_7.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
@@ -349,31 +349,16 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\LQFP-64_10x10mm_P0.5mm.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_0.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\LQFP-64_10x10mm_P0.5mm_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_8.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\C_0603_1608Metric.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_1.par
-|--+Total Parts: 2
-|--+Assemblies: 0
-|--+Solid Bodies: 2
-|--+Sheet Bodies: 0
-|--+End Assembly: 2
-|--+Begin Assembly: 2
-|--+Reusing File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\C_0603_1608Metric.asm
-|--+Total Parts: 0
-|--+Assemblies: 0
-|--+Solid Bodies: 0
-|--+Sheet Bodies: 0
-|--+End Assembly: 2
-|--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\D_SOD-323.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_2.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\C_0603_1608Metric_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_9.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
@@ -387,8 +372,23 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\9HT11-32.768KDZB-T.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\D_SOD-323_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_10.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\9HT11-32.768KDZB-T_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND_2.par
 |--+Total Parts: 6
 |--+Assemblies: 0
 |--+Solid Bodies: 6
@@ -402,8 +402,8 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\L_0805_2012Metric.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_3.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\L_0805_2012Metric_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_11.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
@@ -431,8 +431,8 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\1057.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_4.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\1057_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_12.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
@@ -509,16 +509,16 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\PinHeader_1x05_P2.54mm_Horizontal.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_5.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\PinHeader_1x05_P2.54mm_Horizontal_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_13.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\F930J227KBA.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND_0.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\F930J227KBA_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND_3.par
 |--+Total Parts: 6
 |--+Assemblies: 0
 |--+Solid Bodies: 6
@@ -539,16 +539,16 @@ Translating to Parasolid data types...
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\FH28-10S-0.5SH_11_.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND_1.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\FH28-10S-0.5SH_11__0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\COMPOUND_4.par
 |--+Total Parts: 26
 |--+Assemblies: 0
 |--+Solid Bodies: 26
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
 |--+Begin Assembly: 2
-|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOT-363_SC-70-6.asm
-|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_6.par
+|--+Created SE Assembly File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOT-363_SC-70-6_0.asm
+|  |--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\SOLID_14.par
 |--+Total Parts: 2
 |--+Assemblies: 0
 |--+Solid Bodies: 2
@@ -568,7 +568,7 @@ Translating to Parasolid data types...
 |--+Solid Bodies: 0
 |--+Sheet Bodies: 0
 |--+End Assembly: 2
-|--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\calc-v2 PCB.par
+|--+Created SE Part File C:\Users\emmett\Desktop\OpenRPNCalc\Hardware\calc-v2\3d-models\PCB_Board\calc-v2 PCB_0.par
 +Total Parts: 13
 +Assemblies: 11
 +Solid Bodies: 2
